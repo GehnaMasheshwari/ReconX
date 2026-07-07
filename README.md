@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/reconx-cover.png" alt="ReconX Cover">
+  <img src="https://github.com/GehnaMasheshwari/ReconX/blob/main/assets/ReconXv1.png" alt="ReconX Cover">
 </p>
 
 <p align="center">
