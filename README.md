@@ -306,8 +306,8 @@ reports/
 
 ## 👤 Gehna Maheshwari
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- GitHub: https://github.com/GehnaMasheshwari
+- LinkedIn: https://www.linkedin.com/in/gehnamaheshwari3018
 
 ---
 
